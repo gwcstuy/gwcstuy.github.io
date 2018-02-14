@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	margin-top: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-bottom: 0%;
+}
+
+#head {
+	height: 6%;
+	width: 100%;
+	background-color: #0B5383;
+}
+
+#logo {
+	height: 100%;
+	width: 6%;
+	margin-left: 2%;
+}
